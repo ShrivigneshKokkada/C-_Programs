@@ -11,8 +11,10 @@ namespace TrainingSessionExamples
     {
         static void Main(string[] aregs)
         {
+            //Enter a value
             Console.WriteLine("Enter the value for a number:");
             int a = Convert.ToInt32(Console.ReadLine());
+            //Displaying an output
             Console.WriteLine("Entered number is:"+a);
         }
 
