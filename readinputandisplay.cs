@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-/*  Reading Integer input and displayiong the same
+/*  Reading Integer input and displaying the same
     Author: Shrivignesh
     Date: 3/02/2021  */
 
