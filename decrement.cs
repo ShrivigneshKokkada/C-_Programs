@@ -12,7 +12,9 @@ namespace TrainingSessionExamples
 
         static void Main(string[] args)
         {
+            // Initializing a variable
             int a = 52;
+            
             // Display an output
             Console.WriteLine("The value is: " + a);
             Console.WriteLine("The  Post decremented value is:" + a--);
